@@ -1,0 +1,19 @@
+{
+  "name": "CASINO EXTRA | Bonus > $800 + 150 FS en France",
+  "short_name": "CASINO EXTRA",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#f59e0b",
+  "background_color": "#fff8e1",
+  "display": "standalone"
+}
